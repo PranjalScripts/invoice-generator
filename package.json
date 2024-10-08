@@ -3,7 +3,6 @@
   "version": "0.2.1",
   "private": true,
   "type": "module",
-   
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -37,6 +36,7 @@
     "@types/react-datepicker": "^6.2.0",
     "@types/react-dom": "^18.2.23",
     "@types/react-textarea-autosize": "^8.0.0",
+    "@vitejs/plugin-react": "^4.3.2",
     "prettier": "^3.2.5"
   }
 }
